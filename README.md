@@ -34,5 +34,3 @@ This project showcases a basic sales data analysis using **Microsoft Excel**. It
 <img width="1844" height="322" alt="Screenshot 2025-07-24 091854" src="https://github.com/user-attachments/assets/c02251f5-a239-4ca4-8acb-a6555d46fcfe" />
 <img width="1802" height="559" alt="Screenshot 2025-07-24 091904" src="https://github.com/user-attachments/assets/56b0b522-e120-4310-aec0-eafef9d5ccaa" />
 <img width="1915" height="661" alt="Screenshot 2025-07-24 091915" src="https://github.com/user-attachments/assets/8aebd53d-2586-4e7f-91cb-0c2b9ff917e1" />
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 092203" src="https://github.com/user-attachments/assets/4d49e2df-23da-4892-bf09-2ecbfc74aef3" />
-
